@@ -1,0 +1,1 @@
+# servidor_script_nginx
